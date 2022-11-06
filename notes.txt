@@ -25,3 +25,24 @@ npm i prisma-erd-generator @mermaid-js/mermaid-cli -D
 npx prisma generate
 
 npm i @fastify/cors 
+
+==========================================================================
+
+aula 02
+
+. Criar BD;
+
+. Seeders:
+  - npx prisma db seed
+
+. Rota para criar bolão;
+
+. Biblioteca responsável por validations
+
+npm i zod
+
+. Biblioteca para geração de ID
+
+npm i short-unique-id
+
+
